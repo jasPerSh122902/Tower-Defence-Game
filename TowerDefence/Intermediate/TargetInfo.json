@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TowerDefence",
+			"Path": "C:\\Users\\s218005\\Documents\\Git\\Tower-Defence-Game\\TowerDefence\\Source\\TowerDefence.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TowerDefenceEditor",
+			"Path": "C:\\Users\\s218005\\Documents\\Git\\Tower-Defence-Game\\TowerDefence\\Source\\TowerDefenceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

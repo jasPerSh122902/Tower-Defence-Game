@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TowerDefence.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A180F1D1-782C-44B3-B7C5-3AF60A8BF575}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TowerDefence.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TowerDefenceEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D962A05D-AF89-405A-B585-98E12A131F15}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TowerDefence">
+      <UniqueIdentifier>{F2C73F5D-BB05-4754-884F-F2D9396E378E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TowerDefence\TowerDefence.Build.cs">
+      <Filter>Source\TowerDefence</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TowerDefence\TowerDefence.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TowerDefence\TowerDefence.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TowerDefence\TowerDefenceCharacter.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TowerDefence\TowerDefenceCharacter.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TowerDefence\TowerDefenceGameMode.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TowerDefence\TowerDefenceGameMode.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TowerDefence\TowerDefencePlayerController.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TowerDefence\TowerDefencePlayerController.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
