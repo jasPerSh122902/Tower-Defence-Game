@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDefence
-/I C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Source
+/I C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDefence
+/I C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -260,18 +260,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\TowerDefenceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\TowerDefenceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\TowerDefenceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Source\TowerDefence\TowerDefenceGameMode.cpp"
-/FI"C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\Definitions.TowerDefence.h"
-/Fo"C:\Users\s218005\Documents\Git\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\TowerDefenceGameMode.cpp.obj"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/FI"C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\TowerDefenceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\TowerDefenceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\TowerDefenceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Source\TowerDefence\TowerDefenceGameMode.cpp"
+/FI"C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\Definitions.TowerDefence.h"
+/Fo"C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\TowerDefenceGameMode.cpp.obj"
 /TP
 /GR-
 /W4

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TowerDefence.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A180F1D1-782C-44B3-B7C5-3AF60A8BF575}</UniqueIdentifier>
+      <UniqueIdentifier>{E826B3F0-5DCE-4B09-AAB9-9C2EB7A19150}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TowerDefence.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\TowerDefenceEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\desktop.ini" />
     <Filter Include="Config">
-      <UniqueIdentifier>{D962A05D-AF89-405A-B585-98E12A131F15}</UniqueIdentifier>
+      <UniqueIdentifier>{6AFCD9AC-2E9D-4C0E-A0B3-BDC0CBF79920}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TowerDefence">
-      <UniqueIdentifier>{F2C73F5D-BB05-4754-884F-F2D9396E378E}</UniqueIdentifier>
+      <UniqueIdentifier>{09690ACA-86BB-43EE-8770-73B7B4AB2DF8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TowerDefence\TowerDefence.Build.cs">
       <Filter>Source\TowerDefence</Filter>
