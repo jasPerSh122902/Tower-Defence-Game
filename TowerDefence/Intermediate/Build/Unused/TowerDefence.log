@@ -1,12 +1,10 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game).
+  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Binaries\Win64\UE4Editor-TowerDefence-1173.dll
+  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Binaries\Win64\UE4Editor-TowerDefence-1173.pdb
+  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\UE4Editor-TowerDefence-1173.lib
   Building TowerDefenceEditor...
   Using Visual Studio 2022 14.36.32537 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 6 processes...
-    [1/4] TowerDefencePlayerController.cpp
-    [2/4] UE4Editor-TowerDefence.lib
-       Creating library C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\UE4Editor-TowerDefence.lib and object C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\UE4Editor-TowerDefence.exp
-    [3/4] UE4Editor-TowerDefence.dll
-       Creating library C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\UE4Editor-TowerDefence.suppressed.lib and object C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\UE4Editor-TowerDefence.suppressed.exp
-    [4/4] TowerDefenceEditor.target
-  Total time in Parallel executor: 710.26 seconds
-  Total execution time: 817.75 seconds
+  Building 1 action with 6 processes...
+    [1/1] TowerDefenceEditor.target
+  Total time in Parallel executor: 0.25 seconds
+  Total execution time: 0.79 seconds

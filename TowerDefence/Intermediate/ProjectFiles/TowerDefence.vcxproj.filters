@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TowerDefence.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E826B3F0-5DCE-4B09-AAB9-9C2EB7A19150}</UniqueIdentifier>
+      <UniqueIdentifier>{1EA0333F-43C3-4A36-AB62-EA5F7FB20F5C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TowerDefence.Target.cs">
       <Filter>Source</Filter>
@@ -12,26 +12,8 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\desktop.ini" />
-    <Filter Include="Config">
-      <UniqueIdentifier>{6AFCD9AC-2E9D-4C0E-A0B3-BDC0CBF79920}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultGame.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultInput.ini">
-      <Filter>Config</Filter>
-    </None>
     <Filter Include="Source\TowerDefence">
-      <UniqueIdentifier>{09690ACA-86BB-43EE-8770-73B7B4AB2DF8}</UniqueIdentifier>
+      <UniqueIdentifier>{321516FD-F7C3-4604-9F74-631546E105FB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TowerDefence\TowerDefence.Build.cs">
       <Filter>Source\TowerDefence</Filter>
