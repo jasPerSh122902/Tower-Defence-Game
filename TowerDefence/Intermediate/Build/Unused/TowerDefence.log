@@ -1,10 +1,10 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game).
-  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Binaries\Win64\UE4Editor-TowerDefence-1173.dll
-  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Binaries\Win64\UE4Editor-TowerDefence-1173.pdb
-  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\UE4Editor-TowerDefence-1173.lib
+  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Binaries\Win64\UE4Editor-TowerDefence-6801.dll
+  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Binaries\Win64\UE4Editor-TowerDefence-6801.pdb
+  Deleted hot-reload file: C:\Users\Jaspe\OneDrive\Documents\GitHub\Tower-Defence-Game\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\UE4Editor-TowerDefence-6801.lib
   Building TowerDefenceEditor...
   Using Visual Studio 2022 14.36.32537 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 1 action with 6 processes...
     [1/1] TowerDefenceEditor.target
-  Total time in Parallel executor: 0.25 seconds
-  Total execution time: 0.79 seconds
+  Total time in Parallel executor: 0.34 seconds
+  Total execution time: 1.15 seconds
